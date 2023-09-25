@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MAD_BORROMEOMANIPIS_ACT1</string>
+    <string name="content_text">HELLO WORLD!</string>
+    <string name="button_text">Change font color</string>
+    <string name="button_text_2">Change font size</string>
+
+
+</resources>
